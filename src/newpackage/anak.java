@@ -10,7 +10,9 @@ package newpackage;
  * @author I d e a P a d
  */
 public class anak extends induk {
+//class anak sebagai sub class
     
+    //overriding method
     public void nama(){
         System.out.println("|                        KTP                        |");
     }
